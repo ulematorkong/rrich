@@ -1,0 +1,843 @@
+.about_area {
+  padding-bottom: 210px;
+  padding-top: 150px;
+  background-image: url(../img/banner/burger_bg_1.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  /* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 1, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area {
+    padding-top: 100px;
+    padding-bottom: 120px;
+  }
+}
+
+/* line 21, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_info p {
+  font-size: 16px;
+  line-height: 28px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-top: 0;
+  margin-bottom: 37px;
+}
+
+@media (max-width: 767px) {
+  /* line 29, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_info a {
+    margin-bottom: 30px;
+  }
+}
+
+/* line 35, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_thumb2 {
+  position: relative;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 35, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 35, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 {
+    margin-bottom: 40px;
+  }
+}
+
+/* line 43, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_thumb2 img {
+  width: 100%;
+}
+
+/* line 47, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_thumb2 .img_1 img {
+  width: 100%;
+}
+
+/* line 51, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_thumb2 .img_2 {
+  margin-top: 0px;
+  margin-left: 0px;
+  position: absolute;
+  right: -30px;
+  bottom: -60px;
+}
+
+@media (max-width: 767px) {
+  /* line 51, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 .img_2 {
+    left: auto;
+    bottom: 0;
+    top: auto;
+    right: 0;
+    text-align: right;
+    bottom: -30px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 51, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 .img_2 {
+    left: auto;
+    bottom: 0;
+    top: auto;
+    right: -10px;
+    text-align: right;
+    bottom: -30px;
+  }
+}
+
+/* line 74, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_area .about_thumb2 .img_2 img {
+  width: 50%;
+}
+
+@media (max-width: 767px) {
+  /* line 74, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 .img_2 img {
+    width: 50%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 74, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_area .about_thumb2 .img_2 img {
+    width: 50%;
+  }
+}
+
+/* line 88, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_bg_1 {
+  background-image: url(../img/banner/about_banner.png);
+}
+
+/* line 91, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_info_area {
+  padding-left: 387px;
+  margin-top: 50px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 91, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area {
+    padding-left: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 91, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area {
+    padding-left: 0px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 91, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area {
+    padding-left: 0px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  /* line 91, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area {
+    padding-left: 0px;
+  }
+}
+
+/* line 106, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_info_area .single_slider {
+  height: 750px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  /* line 106, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area .single_slider {
+    height: 400px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 106, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area .single_slider {
+    height: 400px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 106, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_info_area .single_slider {
+    height: 500px;
+  }
+}
+
+/* line 122, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_main_info {
+  padding-top: 100px;
+}
+
+@media (max-width: 767px) {
+  /* line 122, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info {
+    padding-top: 50px;
+  }
+}
+
+/* line 127, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_main_info .single_about_info {
+  margin-bottom: 43px;
+}
+
+@media (max-width: 767px) {
+  /* line 127, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info .single_about_info {
+    margin-bottom: 30px;
+  }
+}
+
+/* line 132, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_main_info .single_about_info h3 {
+  font-size: 22px;
+  color: #1F1F1F;
+  margin-bottom: 0;
+  margin-bottom: 10px;
+  line-height: 32px;
+}
+
+/* line 139, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+.about_main_info .single_about_info p {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #4D4D4D;
+}
+
+@media (max-width: 767px) {
+  /* line 144, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info .single_about_info p br {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 144, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info .single_about_info p br {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 144, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info .single_about_info p br {
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  /* line 144, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/_about.scss */
+  .about_main_info .single_about_info p br {
+    display: none;
+  }
+}
+/**************** review_part css start ****************/
+/* line 3,ss/_review.scss */
+.review_part .client_img {
+  width: 200px;
+  float: left;
+  padding-top: 22px;
+}
+.gray_bg {
+  background-color: #f6f5f1;
+}
+/* line 22,ss/_common.scss
+.form-row > .col, .form-row > [class*=col-] {
+  padding-right: 10px;
+  padding-left: 10px;
+}*/
+
+/* line 26,ss/_common.scss */
+.section_padding {
+  padding: 140px 0px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 26,ss/_common.scss */
+  .section_padding {
+    padding: 80px 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 26,ss/_common.scss */
+  .section_padding {
+    padding: 70px 0px;
+  }
+  .review_part .client_img {
+  width: 100px;
+  float: left;
+  padding-top: 22px;
+ }
+}
+
+@media (max-width: 576px) {
+  /* line 26,ss/_common.scss */
+  .section_padding {
+    padding: 70px 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 26,ss/_common.scss */
+  .section_padding {
+    padding: 70px 0px;
+  }
+  .review_part .client_img {
+  width: 700px;
+  float: left;
+  padding-top: 15px;
+ }
+}
+
+/* line 143,ss/_common.scss */
+.section_tittle {
+  margin-bottom: 70px;
+
+}
+
+@media (max-width: 576px) {
+  /* line 143,ss/_common.scss */
+  .section_tittle {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 143,ss/_common.scss */
+  .section_tittle {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 143,ss/_common.scss */
+  .section_tittle {
+    margin-bottom: 30px;
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 143,ss/_common.scss */
+  .section_tittle {
+    margin-bottom: 30px;
+  }
+}
+
+/* line 158,ss/_common.scss */
+.section_tittle h2 {
+  font-size: 30px;
+  color: #2c3033;
+  line-height: 1.25;
+  font-weight: 700;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 576px) {
+  /* line 158,ss/_common.scss */
+  .section_tittle h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 158,ss/_common.scss */
+  .section_tittle h2 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 158,ss/_common.scss */
+  .section_tittle h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 158,ss/_common.scss */
+  .section_tittle h2 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+}
+
+/* line 182,ss/_common.scss */
+.section_tittle h2:after {
+  width: 90px;
+  height: 10px;
+  position: absolute;
+  content: "";
+  bottom: 9px;
+  z-index: -1;
+  left: 0;
+  background-color: #f83a26;
+}
+
+@media (max-width: 576px) {
+  /* line 182,ss/_common.scss */
+  .section_tittle h2:after {
+    bottom: 3px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 182,ss/_common.scss */
+  .section_tittle h2:after {
+    bottom: 3px;
+  }
+}
+
+/* line 205,ss/_common.scss */
+.section_tittle p {
+  color: #555555;
+  font-size: 16px;
+  margin-bottom: 7px;
+}
+
+/* line 211,ss/_common.scss */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/* line 17,ss/_contact.scss */
+.contact-info .media-body h3 {
+  font-size: 16px;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #2a2a2a;
+}
+
+/* line 23,ss/_contact.scss */
+.contact-info .media-body h3 a:hover {
+  color: #ff6426;
+}
+
+/* line 29,ss/_contact.scss */
+.contact-info .media-body p {
+  color: #8a8a8a;
+}
+
+
+
+@media (max-width: 576px) {
+  /* line 3,ss/_review.scss */
+  .review_part .client_img {
+    display: block;
+    width: 100%;
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 3,ss/_review.scss */
+  .review_part .client_img {
+    display: block;
+    width: 100%;
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 3,ss/_review.scss */
+  .review_part .client_img {
+    display: block;
+    width: 100%;
+    padding-top: 0px;
+  }
+}
+
+/* line 26,ss/_review.scss */
+.review_part .client_img img {
+  max-width: 140px;
+  max-height: 140px;
+}
+
+/* line 31,ss/_review.scss */
+.review_part .client_review_part {
+  position: relative;
+  z-index: 1;
+}
+
+/* line 34,ss/_review.scss */
+.review_part .client_review_part:after {
+  position: absolute;
+  content: "";
+  left: 200px;
+  top: 0px;
+  width: 1px;
+  height: 100%;
+  border: 1px solid #d9d9d9;
+}
+
+@media (max-width: 576px) {
+  /* line 34,ss/_review.scss */
+  .review_part .client_review_part:after {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 34,ss/_review.scss */
+  .review_part .client_review_part:after {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 34,ss/_review.scss */
+  .review_part .client_review_part:after {
+    display: none;
+  }
+}
+
+/* line 56,ss/_review.scss */
+.review_part .client_review_part:before {
+  position: absolute;
+  content: "";
+  left: 60%;
+  top: 13%;
+  width: 174px;
+  height: 139px;
+  background-image: url(../img/Quote.png);
+  background-size: cover;
+}
+
+@media (max-width: 576px) {
+  /* line 56,ss/_review.scss */
+  .review_part .client_review_part:before {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 56,ss/_review.scss */
+  .review_part .client_review_part:before {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 56,ss/_review.scss */
+  .review_part .client_review_part:before {
+    display: none;
+  }
+}
+
+/* line 82,ss/_review.scss */
+.review_part .client_review_single .client_review_text {
+  padding-left: 50px;
+}
+
+@media (max-width: 576px) {
+  /* line 82,ss/_review.scss */
+  .review_part .client_review_single .client_review_text {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 82,ss/_review.scss */
+  .review_part .client_review_single .client_review_text {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 82,ss/_review.scss */
+  .review_part .client_review_single .client_review_text {
+    padding-left: 0px;
+  }
+}
+
+/* line 96,ss/_review.scss */
+.review_part .client_review_single .client_review_text p {
+  font-size: 20px;
+  font-family: "Lora", serif;
+  color: #555555;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+@media (max-width: 576px) {
+  /* line 96,ss/_review.scss */
+  .review_part .client_review_single .client_review_text p {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 96,ss/_review.scss */
+  .review_part .client_review_single .client_review_text p {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 96,ss/_review.scss */
+  .review_part .client_review_single .client_review_text p {
+    font-size: 16px;
+  }
+}
+
+/* line 115,ss/_review.scss */
+.review_part .client_review_single .client_review_text h4 {
+  margin-top: 30px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #2c3033;
+}
+
+@media (max-width: 576px) {
+  /* line 115,ss/_review.scss */
+  .review_part .client_review_single .client_review_text h4 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 115,ss/_review.scss */
+  .review_part .client_review_single .client_review_text h4 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 115,ss/_review.scss */
+  .review_part .client_review_single .client_review_text h4 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+}
+
+/* line 135,ss/_review.scss */
+.review_part .client_review_single .client_review_text h4 span {
+  font-family: "Cardo", serif;
+  font-size: 14px;
+  color: #555555;
+}
+
+/* line 143,ss/_review.scss */
+.review_part .owl-dots {
+  padding-top: 15px;
+  padding-left: 240px;
+}
+
+@media (max-width: 576px) {
+  /* line 143,ss/_review.scss */
+  .review_part .owl-dots {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 143,ss/_review.scss */
+  .review_part .owl-dots {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 143,ss/_review.scss */
+  .review_part .owl-dots {
+    padding-left: 0px;
+  }
+}
+
+/* line 158,ss/_review.scss */
+.review_part .owl-dots button.owl-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 15px;
+  padding: 4px !important;
+  position: relative;
+  z-index: 1;
+  background-color: #fcf5ee;
+}
+
+/* line 168,ss/_review.scss */
+.review_part .owl-dots button.owl-dot:after {
+  position: absolute;
+  content: "";
+  left: -4px;
+  top: -4px;
+  width: 16px;
+  height: 16px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+}
+
+/* line 179,ss/_review.scss */
+.review_part .owl-dots button.owl-dot.active {
+  background-color: lightsalmon;
+  border-radius: 50%;
+}
+
+/* line 184,ss/_review.scss */
+.review_part .owl-dots button.owl-dot:focus {
+  outline: none;
+}
+/*================MAKEUP PAGE CSS===========================*/
+#mainmenu{
+  background-color: #f6f5f1;
+}
+.slider-area{
+  min-height: calc(50vh - 20px);
+  background-image: url(../images/hotel/hotel.jpg);
+  background-position: left;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
+.slider-area1{
+  min-height: calc(50vh - 20px);
+  background-image: url(../images/anime/anime.jpg);
+  background-position: left;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
+.slider-area2{
+  min-height: calc(50vh - 20px);
+  background-image: url(../images/makeup/IMG-20200912-WA0006.jpg);
+  background-position: left;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+
+}
+
+.slider-area3{
+  min-height: calc(50vh - 20px);
+  background-image: url(../images/fashion/images.jpg);
+  background-position: left;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+
+}
+.hero-cap{
+  color: #fff;
+  text-align: left;
+  padding-top:70px;
+}
+.hero-cap h2{
+  font-size: 3rem;
+}
+/*#######################makeup menu items###########################*/
+#special-items{
+  margin-top:0;
+}
+.item-container{
+   background-image: url(../images/logo/logo2.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 200px;
+}
+/*.item-container2, .item-img{
+   height: 200px;
+}*/
+.item-container a{
+
+  position:relative;
+  /*for the link*/
+
+  /*background: linear-gradient(rgb(151, 15, 15),rgb(40, 40, 40));*/
+  transition: all 2s ease;
+}
+.item-container2 .item-img{
+
+  position:relative;
+  /*for the link*/
+  overflow: hidden;
+  background: linear-gradient(rgb(151, 15, 15),rgb(40, 40, 40));
+  transition: all 2s ease;
+}
+.width-height{
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.item-img{
+  transition: all 2s ease;
+  /*height: 200px;*/
+}
+.item-container:hover {
+  transform:scale(1.1);
+  opacity: 0.8;
+}
+.item-container2:hover .item-img{
+  transform:scale(1.2);
+  opacity: 0.5;
+}
+
+.item-link{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #242424;
+  font-size:1rem;
+  transition:all 2s ease;
+  font-family: 'Yesteryear', cursive;
+  border-bottom:3px solid #ff6426;
+  border-top:3px solid #ff6426;
+  opacity: 0;
+}
+
+.item-container:hover .item-link{
+  opacity: 1;
+}
+.item-link:hover{
+  color:#d8cfb7;
+  border:3px solid #d8cfb7;
+  background: #d8cfb7;
+  color:#242424;
+}
+.item-container2:hover {
+  outline: 5px solid #ff6426;
+  outline-offset: 0.2rem;
+}
